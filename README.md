@@ -52,7 +52,7 @@ Python 3.8
 
 4.Swiping Up
 
-![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/Swiping%20Up.gif)
 
 5.Turning Hand Counterclockwise
 
