@@ -60,7 +60,7 @@ Python 3.8
 
 6.Turning Hand Clockwise
 
-![image]()
+![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/Turning%20Hand%20Clockwise.gif)
 
 7.No gesture
 
