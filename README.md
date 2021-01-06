@@ -25,7 +25,9 @@
 ![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/model.PNG)
 
 ## 資料集:
-資料來源集: 20BN-jester Dataset V1 (https://20bn.com/datasets/jester/)
+資料來源集: 20BN-jester Dataset V1 
+
+(https://20bn.com/datasets/jester/)
 
 Training sample: 2500 
 
@@ -46,7 +48,7 @@ Python 3.8
 
 3.Swiping Down
 
-![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/Swiping%20Down.gif)
 
 4.Swiping Up
 
