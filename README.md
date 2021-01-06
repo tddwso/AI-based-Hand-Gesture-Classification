@@ -25,7 +25,10 @@
 ![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/model.PNG)
 
 ## 資料集:
+資料來源集: 20BN-jester Dataset V1 (https://20bn.com/datasets/jester/)
+
 Training sample: 2500 
+
 Validation sample: 500 
 
 ## 使用環境:
@@ -33,15 +36,29 @@ Python 3.8
  
 ## 實測結果
 
+1.Swiping Left
+
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+
+2.Swiping Right
+
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+
+3.Swiping Down
+
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+
+4.Swiping Up
+
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
-![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+
+5.Turning Hand Counterclockwise
+
+![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/Turning%20Hand%20Counterclockwise.gif)
 
 6.Turning Hand Clockwise
 
-![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+![image]()
 
 7.No gesture
 
