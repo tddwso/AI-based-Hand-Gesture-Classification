@@ -44,7 +44,7 @@ Python 3.8
 
 2.Swiping Right
 
-![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/Swiping%20Right.gif)
 
 3.Swiping Down
 
