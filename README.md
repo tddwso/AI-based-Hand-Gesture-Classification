@@ -38,5 +38,11 @@ Python 3.8
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+
+6.Turning Hand Clockwise
+
 ![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
-![image](https://github.com/tddwso/Covid-19-identity/blob/main/test.PNG)
+
+7.No gesture
+
+![image](https://github.com/tddwso/AI-based-Hand-Gesture-Classification/blob/main/no%20gesture.gif)
